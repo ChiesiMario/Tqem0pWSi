@@ -3,10 +3,10 @@
 
 >
     <channel>
-        <title><![CDATA[LinusTechTips 的 bilibili 空間]]></title>
+        <title><![CDATA[Linus Tech Tips]]></title>
         <link>https://space.bilibili.com/12434430</link>
         <atom:link href="http://rsshub.app/bilibili/user/video/12434430" rel="self" type="application/rss+xml" />
-        <description><![CDATA[LinusTechTips 的 bilibili 空間 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <description><![CDATA[Linus Tech Tips - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
         
