@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[Edwin H.]]></title>
+        <link>https://www.youtube.com/channel/UCZGVB6g74LXWtkR3fX50ykg</link>
+        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UCZGVB6g74LXWtkR3fX50ykg" rel="self" type="application/rss+xml" />
+        <description><![CDATA[YouTube channel Edwin H. - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        <language>zh-HK</language>
+        
+        <lastBuildDate>Mon, 27 Sep 2021 01:07:00 GMT</lastBuildDate>
+        <ttl>5</ttl>
+
+
+    </channel>
+</rss>
