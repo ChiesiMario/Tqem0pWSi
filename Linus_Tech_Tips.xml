@@ -1,6 +1,231 @@
-﻿<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /bilibili/user/video/12434430</pre><pre class="message">Error message: Response code 412 (Precondition Failed): target website might be blocking our access, you can <a href="https://docs.rsshub.app/install/">host your own RSSHub instance</a> for a better usability.</pre><pre class="messaage">Helpful Information to provide when opening issue: 
-Path: /bilibili/user/video/12434430
-Node version: v16.3.0
-        </pre><pre class="message">如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[Linus Tech Tips]]></title>
+        <link>https://space.bilibili.com/12434430</link>
+        <atom:link href="http://rsshub.app/bilibili/user/video/12434430" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Linus Tech Tips - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Wed, 03 Nov 2021 10:19:21 GMT</lastBuildDate>
+        <ttl>60</ttl>
+        
+        <item>
+            <title><![CDATA[次品芯片 AMD 也敢賣？AMD 4700S]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=806482329&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/09396fbecbe73bf36235df257c05ede036f62ab0.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 02 Nov 2021 17:38:30 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1934y1o7cj</guid>
+            <link>https://www.bilibili.com/video/BV1934y1o7cj</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DDR5 牛啤炸啦！]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=848879844&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/5880bec54e6c6a2a5d14ea154ac574e9bec3ce49.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 01 Nov 2021 16:28:33 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1UL4y1i7v6</guid>
+            <link>https://www.bilibili.com/video/BV1UL4y1i7v6</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[終歸正途 - 我們的視頻剪輯服務器改用 "Linux" 了]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=848983741&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/a45dedab6e337e9acc1fea62ff583703ae8bb34c.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 31 Oct 2021 19:39:49 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1JL4y1q79w</guid>
+            <link>https://www.bilibili.com/video/BV1JL4y1q79w</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[誠實點吧 - 上手高仿 AirPods Max ]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=506260554&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/220ae13f87edf3b406c30f4bae3c5f0bc654153a.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 29 Oct 2021 10:48:13 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV19u411d7uo</guid>
+            <link>https://www.bilibili.com/video/BV19u411d7uo</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[敵·iPhone - Fairphone 4 模塊化手機]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=633775272&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/b5f6febe48b6bb19dd526e1da59ad200045e7dc2.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 28 Oct 2021 17:53:17 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1db4y1h7Pi</guid>
+            <link>https://www.bilibili.com/video/BV1db4y1h7Pi</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[谷歌也有個蘋果夢 - Pixel 6 發佈會]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=463845785&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/6b6316555471f17a16de22561604e172329ca441.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 28 Oct 2021 17:01:12 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1fL411g7xn</guid>
+            <link>https://www.bilibili.com/video/BV1fL411g7xn</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[謹此盡圓一人夢 - 經許願基金會為 Grant 裝終極機 (英睿達贊助)]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=848793005&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/a5893b228852d4630cff4c129d46c0e36b3cc0af.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 25 Oct 2021 21:48:04 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV13L4y1z7eS</guid>
+            <link>https://www.bilibili.com/video/BV13L4y1z7eS</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[從未有過 PC 的我司剪輯——英特爾科技大升級 Mark 篇 (贊助)]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=891287769&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/03473893bc91942c27b6f37a698b3ac140b68328.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 23 Oct 2021 17:23:31 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1vP4y1b7Ns</guid>
+            <link>https://www.bilibili.com/video/BV1vP4y1b7Ns</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[真有你的啊，蘋果 - 2021 年 10 月蘋果發佈會]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=976198043&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/f1cb481a1ae01c422e1e60c56a0c7d8ccf84fd11.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 21 Oct 2021 17:49:35 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1E44y147Cq</guid>
+            <link>https://www.bilibili.com/video/BV1E44y147Cq</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[新家直播配一套！- 家有網吧第一集 (Elgato 贊助)]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=891203620&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/17027fee92be266bc5949e138fa3f45676d89d67.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 21 Oct 2021 17:49:34 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1nP4y1b7uB</guid>
+            <link>https://www.bilibili.com/video/BV1nP4y1b7uB</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
