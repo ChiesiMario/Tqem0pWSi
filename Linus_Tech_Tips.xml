@@ -1,6 +1,227 @@
-﻿<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /bilibili/user/video/12434430</pre><pre class="message">Error message: Response code 412 (Precondition Failed): target website might be blocking our access, you can <a href="https://docs.rsshub.app/install/">host your own RSSHub instance</a> for a better usability.</pre><pre class="messaage">Helpful Information to provide when opening issue: 
-Path: /bilibili/user/video/12434430
-Node version: v16.3.0
-        </pre><pre class="message">如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[Linus Tech Tips]]></title>
+        <link>https://space.bilibili.com/12434430</link>
+        <atom:link href="http://rsshub.app/bilibili/user/video/12434430" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Linus Tech Tips - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Mon, 22 Nov 2021 05:16:59 GMT</lastBuildDate>
+        <ttl>60</ttl>
+        
+        <item>
+            <title><![CDATA[10 招成為真正的 Windows 老炮 (贊助)]]></title>
+            <description><![CDATA[https://support.microsoft.com/zh-cn/windows/windows-%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-dcc61a57-8ff0-cffe-9796-cb9706c75eec
+
+<iframe src="https://player.bilibili.com/player.html?aid=634312744&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/ff9fdcbd140344d6cf034f28af7133eb6c50e8fa.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 21 Nov 2021 09:35:56 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Tb4y1b7Qi</guid>
+            <link>https://www.bilibili.com/video/BV1Tb4y1b7Qi</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[騷氣十足的新機架！Linus 新家記]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=421848494&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/ab263873acfa5b67bc94611710c4ca1c8cbe9884.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 19 Nov 2021 17:22:49 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1e3411t7Zf</guid>
+            <link>https://www.bilibili.com/video/BV1e3411t7Zf</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[討厭 Windows 11 的設計？這就教你怎麼改]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=976758888&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/4da52367001ed51202ad5cace716c383b0b582e2.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 18 Nov 2021 16:19:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1X44y1a7n6</guid>
+            <link>https://www.bilibili.com/video/BV1X44y1a7n6</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一切為了科學！HDMI 線材大橫評]]></title>
+            <description><![CDATA[https://linustechtips.com/topic/1387053-i-spent-a-thousand-dollars-on-hdmi-cables-for-science/
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=379295145&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/e9fc14b3411c79b3eaef4bcce7f98e1652cfdd4e.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 18 Nov 2021 04:40:50 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1af4y1M7Hq</guid>
+            <link>https://www.bilibili.com/video/BV1af4y1M7Hq</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Xbox 認證顯示設備是什麼鬼？]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=506728759&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/1ba134e1579c96b6b99ceac87ac13f4d5174d9c4.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 15 Nov 2021 15:26:15 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Qg411P7zM</guid>
+            <link>https://www.bilibili.com/video/BV1Qg411P7zM</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最便宜的 OLED 有多差？我們買了創維 55XC9000 ]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=379243674&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/2c5a83be75dc19f0ac6bb6714ddcc030f77f63c4.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 14 Nov 2021 15:38:09 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Nf4y1M7Kc</guid>
+            <link>https://www.bilibili.com/video/BV1Nf4y1M7Kc</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[你後臺開那麼多玩意，玩遊戲得掉多少幀？(贊助)]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=849190359&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/08a754e852f2d27f40150f47743628722a4a55a7.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 12 Nov 2021 12:41:28 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1DL4y1v7oE</guid>
+            <link>https://www.bilibili.com/video/BV1DL4y1v7oE</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[怕升級 Win 11 出差錯？用這個備份軟件吧（贊助）]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=209165309&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/be42720065bcc82ce6214b6a6740870e3b470a33.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 12 Nov 2021 00:20:13 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Hh411b745</guid>
+            <link>https://www.bilibili.com/video/BV1Hh411b745</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[萬刀 PC，猜對了就帶走！ - 非常 P+C 第一集]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=506571812&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/d680dfda633a21dd7ba5b9ade354f62fcdadfc9d.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 10 Nov 2021 19:52:02 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Cg411K7wJ</guid>
+            <link>https://www.bilibili.com/video/BV1Cg411K7wJ</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[正品貓頭鷹顯卡散熱大戰 Linus 手搓膠粘縫合怪 - 華碩 Geforce RTX 3070 貓頭鷹顯卡]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=849013401&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/4202dd42b4e67fffcfe2765157f3c38eca89a61a.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 10 Nov 2021 18:56:30 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1bL4y1q7KK</guid>
+            <link>https://www.bilibili.com/video/BV1bL4y1q7KK</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
