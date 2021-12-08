@@ -1,6 +1,228 @@
-﻿<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /bilibili/user/video/12434430</pre><pre class="message">Error message: Response code 412 (Precondition Failed): target website might be blocking our access, you can <a href="https://docs.rsshub.app/install/">host your own RSSHub instance</a> for a better usability.</pre><pre class="messaage">Helpful Information to provide when opening issue: 
-Path: /bilibili/user/video/12434430
-Node version: v16.3.0
-        </pre><pre class="message">如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[Linus Tech Tips]]></title>
+        <link>https://space.bilibili.com/12434430</link>
+        <atom:link href="http://rsshub.app/bilibili/user/video/12434430" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Linus Tech Tips - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Wed, 08 Dec 2021 10:03:42 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Steam Deck 延期了，所以我搞了臺這個 ——GPD XP 安卓掌機評測]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=892135240&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/e01f2ff7aa001e18929aa5052a867d92bd7ca3d8.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 07 Dec 2021 19:36:11 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1xP4y137Xk</guid>
+            <link>https://www.bilibili.com/video/BV1xP4y137Xk</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[出師不利？Linus & Luke 日用 Linux 挑戰第二集]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=934576526&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/ecba09a3a6898264f0059df3e60861b5ba50b8cd.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 02 Dec 2021 16:46:36 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1hM4y1w7GR</guid>
+            <link>https://www.bilibili.com/video/BV1hM4y1w7GR</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[主板真會影響性能嗎？(贊助)]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=464520816&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/4ea0cff895acae6566ab2619183286b5dfb53f26.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 01 Dec 2021 16:36:12 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ML41177iN</guid>
+            <link>https://www.bilibili.com/video/BV1ML41177iN</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[這人想出老千  - 非常 P+C  第二集（贊助）]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=634576443&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/32c2b448c2ee69b6792ddd29180c4a044f9bfaeb.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 01 Dec 2021 05:06:05 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ab4y1B73h</guid>
+            <link>https://www.bilibili.com/video/BV1ab4y1B73h</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我的顯卡遠在 300 米外跑遊戲呢 (贊助)linus 談科技]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=677048466&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/4c4e5a83693fbb5c2257369af22b9329431464bd.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Nov 2021 21:30:11 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1yU4y1T7hu</guid>
+            <link>https://www.bilibili.com/video/BV1yU4y1T7hu</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Windows 11 的 11 個痛點]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=634378155&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/294323b60eb4fc6e093190aadd3dc2ce915dfc98.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 28 Nov 2021 16:46:56 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1tb4y1b7Dg</guid>
+            <link>https://www.bilibili.com/video/BV1tb4y1b7Dg</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[5800X 配 3070，只要 20 刀！- 20 刀扮豬吃老虎電腦 (贊助]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=676887968&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/6becd87bd369dcc6b8c3f538140913a5e8aa14f7.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 27 Nov 2021 17:05:15 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1XU4y1K7fB</guid>
+            <link>https://www.bilibili.com/video/BV1XU4y1K7fB</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[不是條形音箱，強過條形音箱 - 索尼 HT-A9 家庭影音系統丨 Linus 新家記]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=591889596&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/b9c30a0efb9eee12bdcce690345e7f51305a289d.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Nov 2021 16:57:29 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1uq4y1r7uf</guid>
+            <link>https://www.bilibili.com/video/BV1uq4y1r7uf</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[蘋果在勾引我… - MacBook Pro 14 英寸 M1 Pro 版測評]]></title>
+            <description><![CDATA[
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=634312686&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/d17a827651e8a66987aba9a8a4b03d675a4b9d94.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 22 Nov 2021 17:06:41 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Mb4y1b7nV</guid>
+            <link>https://www.bilibili.com/video/BV1Mb4y1b7nV</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[10 招成為真正的 Windows 老炮 (贊助)]]></title>
+            <description><![CDATA[https://support.microsoft.com/zh-cn/windows/windows-%E7%9A%84%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F-dcc61a57-8ff0-cffe-9796-cb9706c75eec
+
+<iframe src="https://player.bilibili.com/player.html?aid=634312744&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/ff9fdcbd140344d6cf034f28af7133eb6c50e8fa.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 21 Nov 2021 09:35:56 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Tb4y1b7Qi</guid>
+            <link>https://www.bilibili.com/video/BV1Tb4y1b7Qi</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
