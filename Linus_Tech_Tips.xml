@@ -1,6 +1,231 @@
-﻿<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /bilibili/user/video/12434430</pre><pre class="message">Error message: Response code 412 (Precondition Failed): target website might be blocking our access, you can <a href="https://docs.rsshub.app/install/">host your own RSSHub instance</a> for a better usability.</pre><pre class="messaage">Helpful Information to provide when opening issue: 
-Path: /bilibili/user/video/12434430
-Node version: v16.3.0
-        </pre><pre class="message">如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[Linus Tech Tips]]></title>
+        <link>https://space.bilibili.com/12434430</link>
+        <atom:link href="http://rsshub.app/bilibili/user/video/12434430" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Linus Tech Tips - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Sun, 30 Jan 2022 15:00:44 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[它可能是你的下一塊顯卡 - GeForce RTX 3050 評測]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=593526393&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/e9ccbe4fd7df29b0b2aa047bf20e84e90f524124.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 28 Jan 2022 17:18:50 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1aq4y187DP</guid>
+            <link>https://www.bilibili.com/video/BV1aq4y187DP</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我，即是計算機 - 機械計算器 Friden STW10]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=850905726&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/b7c59b7bcafa2c3b02ea3a00a2f4217d0f0826d3.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 27 Jan 2022 12:05:24 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1HL4y1t7rx</guid>
+            <link>https://www.bilibili.com/video/BV1HL4y1t7rx</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Nicole 的終極玩家臥室 - 英特爾科技大升級 (贊助)]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=593428016&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/556f635396ec5e3d39a356c1479c70b4e402a692.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 27 Jan 2022 11:27:28 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1tq4y1C796</guid>
+            <link>https://www.bilibili.com/video/BV1tq4y1C796</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[一款可能買得到，但不該買的顯卡 - AMD Radeon RX 6500 XT 評測]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=295945294&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/f7583e72ca52fa7408eb82cec055bffef94a61c1.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 26 Jan 2022 18:43:55 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1fF411p7VU</guid>
+            <link>https://www.bilibili.com/video/BV1fF411p7VU</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[氫動力車當刮目相看 - 豐田第二代未來試駕]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=808428226&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/fd0b982120d764297d35beaf7f955479edcba933.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 26 Jan 2022 09:03:31 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1t34y1q7mD</guid>
+            <link>https://www.bilibili.com/video/BV1t34y1q7mD</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[惠普，暗影精靈 45L 遊戲臺式機 (箱) 評測]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=765878642&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/74311966d42b7f7d73a74afa3ab562f3b9f6a934.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 24 Jan 2022 15:14:43 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Jr4y1e7hk</guid>
+            <link>https://www.bilibili.com/video/BV1Jr4y1e7hk</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[今年的最強遊戲本已經定了? - 2022 華碩本前瞻 ]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=295995397&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/698dd5c6ebc0cd6cd723808be797c3451d6fb626.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 23 Jan 2022 17:17:26 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1kF411n74p</guid>
+            <link>https://www.bilibili.com/video/BV1kF411n74p</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[雙鷗翼門機箱 - Azza Cast 機箱評測]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=893442819&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/ce7e62cc8350adc5f5a06a2004d5474da0cb18c7.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 23 Jan 2022 16:22:06 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1rP4y1P71F</guid>
+            <link>https://www.bilibili.com/video/BV1rP4y1P71F</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[英特爾 CES2022 新聞 Arc 顯卡 12 代移動端，帶鎖版]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=465934454&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/8da5a1b95f7e1c47376ec39f80ffdb3ca2b64043.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 23 Jan 2022 16:17:02 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV13L411F7ay</guid>
+            <link>https://www.bilibili.com/video/BV13L411F7ay</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[我的電腦總是關機啊 - PC 排故指南]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=253366456&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/41a0bb744ac3be92b54d8f2d4aa9928eed47fc50.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 20 Jan 2022 13:41:03 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV11Y411b7Gt</guid>
+            <link>https://www.bilibili.com/video/BV11Y411b7Gt</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
