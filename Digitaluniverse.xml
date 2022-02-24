@@ -1,55 +1,821 @@
-﻿<html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /youtube/channel/UC2NWHjZns6Mwda_80tntoEg</pre><pre class="message">Error message: This path is currently fetching, please come back later!</pre><pre class="messaage">
-Helpful Information to provide when opening issue: 
-Path: /youtube/channel/UC2NWHjZns6Mwda_80tntoEg
-Node version: v14.19.0
-        </pre><pre class="message">
-如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html><!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /youtube/channel/UC2NWHjZns6Mwda_80tntoEg</pre><pre class="message">Error message: This path is currently fetching, please come back later!</pre><pre class="messaage">
-Helpful Information to provide when opening issue: 
-Path: /youtube/channel/UC2NWHjZns6Mwda_80tntoEg
-Node version: v14.19.0
-        </pre><pre class="message">
-如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html><!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /youtube/channel/UC2NWHjZns6Mwda_80tntoEg</pre><pre class="message">Error message: This path is currently fetching, please come back later!</pre><pre class="messaage">
-Helpful Information to provide when opening issue: 
-Path: /youtube/channel/UC2NWHjZns6Mwda_80tntoEg
-Node version: v14.19.0
-        </pre><pre class="message">
-如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html><!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /youtube/channel/UC2NWHjZns6Mwda_80tntoEg</pre><pre class="message">Error message: This path is currently fetching, please come back later!</pre><pre class="messaage">
-Helpful Information to provide when opening issue: 
-Path: /youtube/channel/UC2NWHjZns6Mwda_80tntoEg
-Node version: v14.19.0
-        </pre><pre class="message">
-如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=&template=bug_report.md" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[數位宇宙]]></title>
+        <link>https://www.youtube.com/channel/UC2NWHjZns6Mwda_80tntoEg</link>
+        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC2NWHjZns6Mwda_80tntoEg" rel="self" type="application/rss+xml" />
+        <description><![CDATA[YouTube channel 數位宇宙 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Thu, 24 Feb 2022 03:01:27 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[領先日廠的音質與續航？Technics EAH-A800 降噪藍牙耳機 | LDAC 藍牙編碼、8 麥克風雙重混合降噪]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/7mZ9eEMQSJs" frameborder="0" allowfullscreen=""></iframe>日本 Panasonic 旗下高階音響品牌 Technics<br>推出主打發燒音質的頭戴式耳罩<br>更有業界最高等級降噪與最長續航<br>究竟 A800 能否贏過 Sony WH-1000XM4<br>並延續 EAH-AZ60 給我們的驚豔感呢？<br><br>0:00 前言<br>1:06 外觀<br>1:55 配戴感<br>2:36 降噪與環境音<br>3:37 音質<br>5:02 通話<br>5:12 結論<br><br>Technics 全系列耳機：https://pse.is/3vluu7<br>(加贈 KKBOX Hi-Fi 會員)<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#萬元以上]]></description>
+            <pubDate>Wed, 23 Feb 2022 02:22:53 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=7mZ9eEMQSJs</guid>
+            <link>https://www.youtube.com/watch?v=7mZ9eEMQSJs</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[監聽耳機新勢力！Sennheiser IE 100 PRO / Acoustune RS ONE / Shure AONIC 215 入耳式耳機]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/VvTxgeoCxtw" frameborder="0" allowfullscreen=""></iframe>老實說專業監聽耳機<br>跟消費性有線耳機的界線已經越來越模糊<br>這次就來推薦三款既能工作用<br>也能欣賞音樂的<br>分別是 Sennheiser IE 40 PRO 小改款<br>Shure SE215 線控版<br>Acoustune HS1300SS 入門版<br><br>0:00 前言<br>1:16 長壽監聽耳機<br>1:58 外觀<br>3:07 單體<br>4:02 配戴感<br>4:59 音質<br>7:26 結論<br><br>宇宙級耳機討論區：https://pse.is/3xp7q6<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#3000 元]]></description>
+            <pubDate>Fri, 18 Feb 2022 06:11:59 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=VvTxgeoCxtw</guid>
+            <link>https://www.youtube.com/watch?v=VvTxgeoCxtw</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sony LinkBuds WF-L900 真無線耳機 / NW-WM1ZM2 金磚二代 / 旭化成 AKM 回來了 | 宇宙週報]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/QQBLkfZE654" frameborder="0" allowfullscreen=""></iframe>索尼即將發表挖洞的真無線藍牙耳機<br>可能兼具開放式跟 ANC 主動式降噪設計<br>有夠酷<br>最近還有哪些音訊新知呢？<br>跟公道伯一起來看看<br><br>0:00 前言<br>0:16 AKM DAC：https://www.akm.com/eu/en/about-us/news/2022/20220207-ak4493sak4490r/<br>1:36 Sony Walkman Signature Series NW-WM1ZM2：https://www.sony.com.tw/zh/electronics/walkman/nw-wm1zm2<br>3:14 Sony WF-L900：https://twitter.com/TechInsiderBlog<br>4:41 結論<br><br>宇宙級耳機討論區：https://pse.is/3xp7q6<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#沒有 S22U]]></description>
+            <pubDate>Mon, 14 Feb 2022 06:59:25 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=QQBLkfZE654</guid>
+            <link>https://www.youtube.com/watch?v=QQBLkfZE654</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[質感好過 Bose QC45？Shure AONIC 40 降噪藍牙耳機 | 對比 AONIC 50]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/0lrhqf3XW4E" frameborder="0" allowfullscreen=""></iframe>美國傳統大廠 SHURE<br>推出平價版的頭戴式耳罩<br>更小、更好攜帶<br>並主打專業錄音室等級的清晰音質<br>滿足音樂家、創作者的監聽需求<br><br>0:00 前言<br>0:39 外觀<br>1:24 配戴感<br>3:21 降噪與環境音<br>3:44 音質<br>4:59 通話<br>5:09 結論<br><br>Shure AONIC 40：https://pse.is/3uxvnm<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#白白的]]></description>
+            <pubDate>Fri, 11 Feb 2022 07:03:35 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=0lrhqf3XW4E</guid>
+            <link>https://www.youtube.com/watch?v=0lrhqf3XW4E</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[音質比有線耳機還好？final ZE3000 真無線藍牙耳機 | IEM 配戴感、TYPE E 專用耳塞]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/a3eoM1JyCRg" frameborder="0" allowfullscreen=""></iframe>日系大廠 final 推出首款真無線<br>目標是音質超越經典 E3000<br>不但設計全新的低失真單體<br>套上 A3000、A4000 系列的外殼<br>連腔體設計都參考旗艦 A8000<br>發燒友肯定買單<br><br>0:00 前言<br>0:37 E3000<br>1:29 外觀<br>2:14 配戴感<br>2:38 規格與功能<br>3:02 音質<br>5:06 通話<br>5:15 結論<br><br>final ZE3000：https://pse.is/3xrzkm<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#挑戰最高音質]]></description>
+            <pubDate>Wed, 09 Feb 2022 03:20:27 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=a3eoM1JyCRg</guid>
+            <link>https://www.youtube.com/watch?v=a3eoM1JyCRg</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[虎年虎你爽歪歪！兩人關係大公開？]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/W3T9_3U3HrA" frameborder="0" allowfullscreen=""></iframe>新年快樂<br>小丑竟是我自己<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#2022]]></description>
+            <pubDate>Wed, 02 Feb 2022 09:35:40 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=W3T9_3U3HrA</guid>
+            <link>https://www.youtube.com/watch?v=W3T9_3U3HrA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[功能點滿的隨身發燒訊源！iFi Audio xDSD Gryphon 隨身 DAC 耳擴一體機 ft. @iFi Audio Taiwan 臺灣]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/SZ5qrJ3F4dg" frameborder="0" allowfullscreen=""></iframe>英國 iFi 推出 xDSD 升級版<br>結合 DAC、耳機擴大器與藍牙<br>不但支援 DSD512/PCM 768kHz/MQA 解碼<br>更有 3.5mm/4.4mm 平衡輸出<br>可以家用又可以便攜<br>哪裡有對手？<br><br>0:00 前言<br>0:41 功能<br>1:36 外觀<br>2:40 音質<br>3:59 結論<br><br>xDSD Gryphon：https://pse.is/3uu5xm<br><br>【iFi Audio 臺灣】<br>粉專：https://www.facebook.com/ifitw<br>IG：https://www.instagram.com/ifi.audio.tw<br>YT 頻道：https://pse.is/39j2qp<br>官網：https://www.ifi-audio.tw<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#不是小尾巴的大尾巴]]></description>
+            <pubDate>Fri, 28 Jan 2022 03:01:49 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=SZ5qrJ3F4dg</guid>
+            <link>https://www.youtube.com/watch?v=SZ5qrJ3F4dg</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[你該知道 Snapdragon Sound 技術的三大優勢！McGee ANC3056 降噪真無線藍牙耳機 | QCC3056、24bit/96kHz aptX Adaptive]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/Ok38oxuhN-Y" frameborder="0" allowfullscreen=""></iframe>採用高通最新 Snapdragon Sound 平臺的耳機<br>音質、低延遲、通話的品質都獲得了提升<br>McGee ANC3056 就有用這項技術<br>甚至搶先小米、鐵三角一步呢<br><br>0:00 前言<br>1:03 Qualcomm Snapdragon Sound<br>2:22 外觀<br>3:29 降噪與環境音<br>3:54 McGee Ear Play Pro<br>4:07 音質<br>4:56 通話<br>5:09 結論<br><br>McGee ANC3056：https://pse.is/3vfdef<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#高通大法好]]></description>
+            <pubDate>Tue, 25 Jan 2022 02:01:07 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=Ok38oxuhN-Y</guid>
+            <link>https://www.youtube.com/watch?v=Ok38oxuhN-Y</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[韋禮安《如果可以》輕快節奏版 Cover | 電影月老主題曲 #shorts]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/BgYU1X8O8yQ" frameborder="0" allowfullscreen=""></iframe>有成為音響測試音樂的潛力<br>對吧<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#喂李安]]></description>
+            <pubDate>Fri, 21 Jan 2022 09:55:54 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=BgYU1X8O8yQ</guid>
+            <link>https://www.youtube.com/watch?v=BgYU1X8O8yQ</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[回味 LG 手機的好聲音！LG TONE Free FP9、FP8 降噪真無線藍牙耳機 | UVnano 紫外線殺菌]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/fFhDU2cUC9Q" frameborder="0" allowfullscreen=""></iframe>從前 LG 手機主打 Hi-Fi 音質<br>這回真無線耳機也延續此精神<br>找來英國音響大廠 MERIDIAN 調音<br>充電盒 5 分鐘還能殺死 99.9% 細菌<br>聲音跟耳機都乾乾淨淨<br><br>0:00 前言<br>1:11 品牌<br>2:19 外觀<br>3:09 功能<br>3:28 通話<br>3:37 音質<br>4:44 結論<br><br>TONE Free FP8、FP9：https://pse.is/3yp7pf<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#布加拉提]]></description>
+            <pubDate>Mon, 17 Jan 2022 03:40:22 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=fFhDU2cUC9Q</guid>
+            <link>https://www.youtube.com/watch?v=fFhDU2cUC9Q</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2022 年最強電競耳機？EPOS H3PRO Hybrid 7.1 無線/藍牙雙模式電競耳機 | 對比 H3 Hybrid]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/q5NJ9g6fk1w" frameborder="0" allowfullscreen=""></iframe>丹麥 EPOS 推出旗艦無線電競耳麥<br>融合了你能想到的所有功能<br>包含 2.4G 低延遲/藍牙連線<br>ANC 主動式降噪、EPOS Gaming Suite 虛擬環繞音效<br>支援 PC、PS5、Switch、手機等多種平臺<br>加上 Sennheiser Communications 的聲學技術<br>無敵了吧？<br><br>0:00 前言<br>0:36 外觀<br>1:59 功能<br>3:20 音質<br>3:52 通話<br>4:02 結論<br><br>H3PRO Hybrid：https://pse.is/3yj4qw<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#大大大升級]]></description>
+            <pubDate>Tue, 11 Jan 2022 06:56:08 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=q5NJ9g6fk1w</guid>
+            <link>https://www.youtube.com/watch?v=q5NJ9g6fk1w</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[鐵三角有史以來最佛心的真無線？鐵三角 ATH-CK1TW 真無線藍牙耳機 | IPX5、IPX7 防水]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/ZZzINaB-pmE" frameborder="0" allowfullscreen=""></iframe>連日系大廠 Audio-Technica<br>都跳到 2000 元的價位帶<br>其他廠商還用玩嗎？<br>它繼承了 ATH-SQ1TW 的低延遲模式<br>聲音上也絲毫不遜色呢<br><br>0:00 前言<br>1:12 外觀<br>2:08 配戴感<br>2:42 低延遲模式<br>3:20 音質<br>4:04 通話<br>4:22 結論<br><br>ATH-CK1TW：https://pse.is/3wcyd9<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#高 CP 值]]></description>
+            <pubDate>Tue, 11 Jan 2022 02:34:53 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=ZZzINaB-pmE</guid>
+            <link>https://www.youtube.com/watch?v=ZZzINaB-pmE</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2000 元有線耳機推薦！動漫歌新寵？IKKO OPAL OH2 入耳式耳機 | 同場加映 IKKO ITX01]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/-oQww6_Ms54" frameborder="0" allowfullscreen=""></iframe>包裝盒耳機娘由日系轉美式的 IKKO OH2<br>有混合金屬腔體的透明外殼<br>平價的它還繼承 OH1S 的聲學技術<br>可說是新 ACG 專武<br><br>0:00 前言<br>0:33 品牌<br>1:38 外觀<br>2:32 音質<br>3:31 ITX01 USB HUB<br>4:26 結論<br><br>OH2：https://sho.pe/3ut8c3<br>ITX01：https://sho.pe/3x5juw<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#好油喔 peko]]></description>
+            <pubDate>Fri, 07 Jan 2022 07:08:02 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=-oQww6_Ms54</guid>
+            <link>https://www.youtube.com/watch?v=-oQww6_Ms54</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LDAC 極上音質！Technics EAH-AZ60、EAH-AZ40 降噪真無線藍牙耳機 | 對比 Sony WF-1000XM4]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/aqKYhb0FRYM" frameborder="0" allowfullscreen=""></iframe>日本 Panasonic 旗下高階音響品牌 Technics<br>推出主打 LDAC 高音質的 AZ60<br>擁有業界最高等級的雙重混合降噪<br>與八麥克風的 JustMyVoice 通話技術<br>挑戰日本最強真無線！<br><br>0:00 前言<br>1:05 外觀<br>1:57 配戴感<br>2:24 功能<br>3:38 音質<br>6:10 通話<br>6:27 結論<br><br>EAH-AZ60、AZ40：https://pse.is/3vluu7<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#日系最高音質]]></description>
+            <pubDate>Tue, 04 Jan 2022 07:48:04 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=aqKYhb0FRYM</guid>
+            <link>https://www.youtube.com/watch?v=aqKYhb0FRYM</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2022 年 10 款真無線藍牙耳機推薦！Sony、鐵三角、Soundcore、Technics、Sennheiser... | 年度十大直無線耳機]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/UowJmr1nuTA" frameborder="0" allowfullscreen=""></iframe>近期有哪些值得入手的真無線耳機？<br>公道伯嚴選出具代表性的 TOP10<br>一次推薦給你<br><br>0:00 前言<br>0:24 最佳低音獎 Devialet Gemini：https://youtu.be/Iw9CjIMwl1Y<br>1:11 MVP 獎 Sony WF-1000XM4：https://youtu.be/1bJKvUVISF8<br>2:03 預告 Technics EAH-AZ60：https://youtu.be/aqKYhb0FRYM<br>2:17 最佳精神獎 Shure AONIC Free：https://youtu.be/gFNAg8cPhCA<br>3:04 最長續航獎，鐵三角 ATH-CKS50TW：https://youtu.be/7UkzMpxFidg<br>3:53 最佳人氣獎 Soundcore Liberty 3 Pro：https://youtu.be/bxxiiN7zMz4<br>4:47 最佳時尚獎 Nothing ear (1)：https://youtu.be/t7kIim10SdI<br>5:26 最佳運動獎 XROUND Forge NC：https://youtu.be/TAtuETcN_e4<br>6:14 最佳創意獎 BGVP Q2s：https://youtu.be/lQ_zInI1Lhs<br>6:54 最佳通透獎 SoundPeats TrueAir2：https://youtu.be/j6deYH47nOo<br>7:32 最佳入門獎 JLab Go Air POP：https://youtu.be/1CEmJX1n5-c<br>8:08 結論<br>8:29 遺珠 Sennheiser CX Plus True Wireless<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#年度特輯]]></description>
+            <pubDate>Tue, 28 Dec 2021 06:13:13 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=UowJmr1nuTA</guid>
+            <link>https://www.youtube.com/watch?v=UowJmr1nuTA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[給你們的聖誕節禮物，小茉最大突破？每個人看完都忍不住了… #shorts]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/WpTzU2gJ-LA" frameborder="0" allowfullscreen=""></iframe>謝謝我好了<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#聖誕快樂]]></description>
+            <pubDate>Fri, 24 Dec 2021 09:56:08 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=WpTzU2gJ-LA</guid>
+            <link>https://www.youtube.com/watch?v=WpTzU2gJ-LA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[零負擔的輕盈耳罩！鐵三角 ATH-HL7BT 開放式藍牙無線耳機 | 一對二連線、360 Reality Audio]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/vbUtxGIY1sc" frameborder="0" allowfullscreen=""></iframe>Audio-Technica 推出市面上難得的開放式藍牙耳罩<br>不僅將經典的 AD 系列轉生成藍牙耳機<br>讓你聽見通透的聲音<br>配戴上更是輕盈無負擔<br>還有支援 Hi-Res 的有線模式<br>感受日系的宏荒之力吧！<br><br>0:00 前言<br>0:55 外觀<br>2:20 通話<br>2:32 功能<br>3:03 音質<br>4:35 結論<br><br>ATH-HL7BT：https://pse.is/3vr5b6<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#多的是你不知道的事]]></description>
+            <pubDate>Wed, 22 Dec 2021 02:10:26 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=vbUtxGIY1sc</guid>
+            <link>https://www.youtube.com/watch?v=vbUtxGIY1sc</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2022 年電競耳機推薦！鐵三角 ATH-GDL3 / GL3 遊戲專用耳機麥克風組]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/aty3x64t6tw" frameborder="0" allowfullscreen=""></iframe>Audio-Technica 推出開放式、封閉式兩種遊戲耳機<br>看你想要聽開闊的音場<br>還是豐富的遊戲細節<br>而且它們都有日系音質與高度便利性<br>滿足各類遊戲玩家的需求<br><br>0:00 前言<br>0:51 浮世繪<br>1:47 外觀<br>3:31 配戴感<br>3:52 通話<br>4:39 音質<br>5:24 結論<br><br>ATH-GDL3、GL3：https://pse.is/3wsj9n<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#好舒服]]></description>
+            <pubDate>Fri, 17 Dec 2021 08:53:23 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=aty3x64t6tw</guid>
+            <link>https://www.youtube.com/watch?v=aty3x64t6tw</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[高質感書架喇叭，又可以帶出場？Marley Get Together Duo 藍牙書架音箱 | 20 小時續航、真無線技術]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/HunSZsWmg1I" frameborder="0" allowfullscreen=""></iframe>全球首款書架喇叭結合可攜式藍牙喇叭？<br>我第一次看到也是滿頭問號<br>不過天然竹材搭配 REWIND 織布<br>還是充滿 House of Marley 的環保特色<br>看完你就知道它有多特別<br><br>0:00 前言<br>0:28 外觀<br>1:32 功能<br>3:32 音質<br>4:09 結論<br><br>Marley Get Together Duo：https://bit.ly/3lUyyEL<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#Chill 到大舌頭]]></description>
+            <pubDate>Tue, 14 Dec 2021 02:16:36 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=HunSZsWmg1I</guid>
+            <link>https://www.youtube.com/watch?v=HunSZsWmg1I</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[隱藏版耳機店，還不只能試聽耳機？待到店長快崩潰！GravaStar SIRIUS PRO / SoundPeats / Marshall / 未來實驗室 | JC 科技]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/gr2fil5fDjo" frameborder="0" allowfullscreen=""></iframe>看你是要聽真無線藍牙耳機、藍牙喇叭<br>還是挑 USB 麥克風、手機殼、小家電<br>這裡一次搞定<br><br>0:00 前言<br>0:39 藍牙耳機與藍牙喇叭<br>2:45 酷酷的東西<br>4:18 結論<br><br>JC 科技官網：https://www.jcjucheng.com.tw<br><br>📍JC 科技臺中公益店<br>➤營業時間：12:00-22:00 <br>➤門市地址：臺中市西區公益路 188-1 號<br>➤門市電話：04-2326-5611<br><br>📍JC 科技新莊宏匯店<br>➤營業時間：週日～週四 11:00～21:30   |  週五、週六 11:00～22:00<br>➤櫃點地址：新北市新莊區新北大道四段 3 號 6F<br>➤櫃點電話：02-8521-5720<br><br>---<br><br>好放 HaveFun 的帥氣開箱：https://youtu.be/bj5Oxb7rdNI<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#新莊宏匯廣場]]></description>
+            <pubDate>Tue, 07 Dec 2021 09:29:27 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=gr2fil5fDjo</guid>
+            <link>https://www.youtube.com/watch?v=gr2fil5fDjo</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Soundcore x MARVEL 漫威鋼鐵人系列！Life P3 / Liberty Air 2 Pro / Mini 3 Pro / Select 2]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/LZryy8Sg1Ac" frameborder="0" allowfullscreen=""></iframe>Anker 旗下 Soundcore<br>推出 MARVEL 授權的超級英雄系列產品<br>包含復仇者聯盟三巨頭<br>鋼鐵人、美國隊長、雷神索爾<br>讓降噪真無線藍牙耳機跟藍牙喇叭都換上酷酷的造型<br>我們來幫大家揭露經典的 IRON MAN 款<br><br>0:00 前言<br>0:44 Life P3<br>2:45 Mini 3 Pro<br>3:47 Select 2<br>4:28 結論<br><br>Soundcore 漫威系列：https://lihi.witsper.com/PD9dP/universe<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#英雄聚首]]></description>
+            <pubDate>Mon, 06 Dec 2021 01:33:51 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=LZryy8Sg1Ac</guid>
+            <link>https://www.youtube.com/watch?v=LZryy8Sg1Ac</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[技能全點在音質上！Shure AONIC Free 真無線藍牙耳機 | 37dB 隔音、高品質耳擴]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/gFNAg8cPhCA" frameborder="0" allowfullscreen=""></iframe>美國傳統大廠 SHURE<br>在推出真無線模組 AONIC 215 TW2 後<br>終於推出真正意義的真無線耳機<br>主打錄音室等級的清晰音質<br>是真是假？<br>我們一起看看<br><br>0:00 前言<br>0:28 外觀<br>1:12 設計<br>2:40 單體秘密<br>4:11 音質<br>5:23 通話<br>5:28 結論<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#大是一種稱讚]]></description>
+            <pubDate>Tue, 30 Nov 2021 09:38:25 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=gFNAg8cPhCA</guid>
+            <link>https://www.youtube.com/watch?v=gFNAg8cPhCA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[平價小尾巴 DAC 推薦！狂派 Plus3 / FiiO KA3 / Astell&Kern PEE51 / ALO audio Pilot | 隨身 DAC 耳擴]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/wkfngko75ps" frameborder="0" allowfullscreen=""></iframe>想增強手機的解碼與推力<br>進而提升有線耳機的音質嗎？<br>我們挑選四款入門小尾巴<br>幫各位燒友一次比較清楚<br><br>0:00 前言<br>0:52 狂派 Plus3<br>2:53 ALO Pilot<br>4:17 A&amp;K PEE51<br>5:48 FiiO KA3<br>7:26 結論<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#5000 元以下]]></description>
+            <pubDate>Tue, 30 Nov 2021 03:09:41 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=wkfngko75ps</guid>
+            <link>https://www.youtube.com/watch?v=wkfngko75ps</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【說出來】群青 meme #shorts]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/3P1sVqic3mQ" frameborder="0" allowfullscreen=""></iframe>來源：<br>YOASOBI「群青」Official Music Video<br>https://youtu.be/Y4nEEZwckuU<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#舒服]]></description>
+            <pubDate>Mon, 29 Nov 2021 10:08:57 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=3P1sVqic3mQ</guid>
+            <link>https://www.youtube.com/watch?v=3P1sVqic3mQ</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[派對般的澎湃重低音！鐵三角 ATH-CKS50TW 降噪真無線藍牙耳機 | 50 小時續航黑科技]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/7UkzMpxFidg" frameborder="0" allowfullscreen=""></iframe>Audio-Technica ATH-CKS50TW 身為 SOLID BASS 重低音系列<br>擁有降噪、低延遲、一對二等主流功能<br>不但支援 360 Reality Audio 環繞音效<br>大口徑更能帶來豐沛的低頻<br>讓你彷彿置身派對、夜店現場！<br><br>0:00 前言<br>0:57 外觀<br>1:46 配戴感<br>2:42 功能與 360 Reality Audio<br>3:44 低延遲模式<br>4:16 降噪與環境音<br>4:48 音質<br>5:29 通話<br>5:47 結論<br><br>ATH-CKS50TW：https://pse.is/3ruxgl<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#DJ 抓了壁]]></description>
+            <pubDate>Fri, 26 Nov 2021 06:30:04 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=7UkzMpxFidg</guid>
+            <link>https://www.youtube.com/watch?v=7UkzMpxFidg</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[這熟悉的 BGM？是請你們開箱耳機不是開箱松露欸！桌上的酷東西明天揭曉 #shorts]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/BF0fGD5L7Ik" frameborder="0" allowfullscreen=""></iframe>小茉說帽子這樣戴很像 Fred<br>於是就變成這樣了<br>我是覺得臉的帥度有像<br>肌肉還差一點<br>不過最後一句是怎麼回事？？？<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#開上癮]]></description>
+            <pubDate>Thu, 25 Nov 2021 13:40:19 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=BF0fGD5L7Ik</guid>
+            <link>https://www.youtube.com/watch?v=BF0fGD5L7Ik</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LDAC 真無線耳機對決！Edifier NeoBuds Pro vs Sony WF-1000XM4]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/hV1lwSGT00E" frameborder="0" allowfullscreen=""></iframe>身為漫步者 25 週年紀念款的 NeoBuds Pro 降噪真無線藍牙耳機<br>採用圈鐵混合並支援 LHDC/LDAC 藍牙編碼<br>音質上能勝出索尼 WF-1000XM4 嗎？<br>兩款分別適合怎麼樣的人<br>一次告訴你<br><br>0:00 前言<br>1:06 外觀<br>1:46 配戴感<br>2:35 降噪與環境音<br>3:24 低延遲遊戲模式<br>3:56 音質<br>5:24 通話<br>5:36 結論<br><br>NeoBuds Pro：https://pse.is/NBPro<br>(Hi-Res 認證，支援 LDAC<br>複合式主動降噪<br>3 麥克風通話降噪<br>6+18 小時續航)<br>#HiRes #LDAC #降噪耳機 #雙單體 #EDIFIER<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com]]></description>
+            <pubDate>Fri, 19 Nov 2021 07:23:59 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=hV1lwSGT00E</guid>
+            <link>https://www.youtube.com/watch?v=hV1lwSGT00E</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[這才是大家要的真無線藍牙模組？再把高階有線耳機變成真無線耳機！Shure 第二代 AONIC 215 / RMCE-TW2]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/Z5DTdl1tetM" frameborder="0" allowfullscreen=""></iframe>第二代 Aonic215<br>實際上升級了 RMCE-TW2 真無線模組<br>但你可以將 SE215 或其他 MMCX 接頭的耳機<br>輕鬆換上去一秒變真無線<br>這次還升級 IPX4 防水、單耳使用與自訂 EQ<br>讓燒友出門聽個響<br>在家接線爽<br><br>0:00 前言<br>0:24 升級處<br>1:35 相同處<br>2:17 音質<br>3:01 通話<br>3:07 結論<br><br>AONIC 215 TW2：https://pse.is/3syege<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#小朋友才做選擇]]></description>
+            <pubDate>Mon, 15 Nov 2021 02:42:24 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=Z5DTdl1tetM</guid>
+            <link>https://www.youtube.com/watch?v=Z5DTdl1tetM</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2021 年下半年暨雙 11 購物節，真無線藍牙耳機 7 款推薦！1000 元~4000 元]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/2w3Awtzxghc" frameborder="0" allowfullscreen=""></iframe>11.11 購物節<br>幫大家整理出優惠折扣特輯<br>看是要高 CP 值、主動式降噪、音質<br>懶人包一次搞定<br><br>0:00 前言<br>0:31 JLab Go Air POP：https://youtu.be/1CEmJX1n5-c<br>2:04 Enacfire E90：https://youtu.be/J73azjtadyE<br>3:11 Tribit FlyBuds C1：https://youtu.be/e5fJWLURTWc<br>4:33 JLab JBuds Air ANC：https://youtu.be/tnvnzse7J-I<br>6:12 JLab Epic Air ANC：https://youtu.be/I6-w4rxCq_U<br>7:54 Cleer Ally Plus 2：https://youtu.be/2OljtSluRQk<br>9:28 Ausounds AU-Stream Hybrid：https://youtu.be/Bq3EaM9TNew<br>10:51 結論<br><br>igogo 耳機都在這了：https://pse.is/3sw37x<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#大大大優惠]]></description>
+            <pubDate>Mon, 08 Nov 2021 07:32:57 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=2w3Awtzxghc</guid>
+            <link>https://www.youtube.com/watch?v=2w3Awtzxghc</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[1 萬訂閱 Q&A 感謝祭？泳裝臺？陳五跟小茉的關係？最喜歡的耳機？]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/vA-VOEo99f0" frameborder="0" allowfullscreen=""></iframe>謝囉<br><br>0:00 前言<br>0:23 Q&amp;A<br>7:22 小彩蛋<br><br>---<br><br>■ 活動方式：<br>(1) 訂閱「數位宇宙」YouTube 頻道<br>(2) 在此影片底下留言<br>第一支看我們的影片<br>印象深刻的點<br>想對我們說的話<br>(3) 公開分享此影片在 Facebook 塗鴉牆<br>■ 就有機會獲得：<br>Nuarl N6 Pro2<br>XROUND Forge NC (x2)<br>SoundPeats Sonic Pro<br>ag COTSUBU<br>EppFun Cute Meet 300<br>JLab Go Air POP (x2)<br>■ 活動時間：<br>2021/11/5 ~ 2021/11/19<br>未來將於頻道社群&amp;粉專公佈得獎的幸運兒<br>(主辦單位保有隨時修改活動之權利)<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#大大大回饋]]></description>
+            <pubDate>Wed, 03 Nov 2021 03:03:15 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=vA-VOEo99f0</guid>
+            <link>https://www.youtube.com/watch?v=vA-VOEo99f0</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[1000 元有找的小清新高質感？JLab Go Air POP 真無線藍牙耳機 | 內建 USB 充電線、3 種 EQ]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/1CEmJX1n5-c" frameborder="0" allowfullscreen=""></iframe>美國熱銷品牌 JLab<br>帶來超級平價的 Go Air Pop<br>比上代 Go Air 更小、更簡約、更便宜<br>續航力更提升了 60%<br>這款百元耳機肯定賣爆<br><br>0:00 前言<br>0:50 外觀<br>1:56 配戴感<br>2:44 音質<br>3:48 通話<br>3:59 結論<br><br>JLab Go Air POP：https://pse.is/3s7eqm<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#高 CP 值]]></description>
+            <pubDate>Mon, 01 Nov 2021 02:31:18 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=1CEmJX1n5-c</guid>
+            <link>https://www.youtube.com/watch?v=1CEmJX1n5-c</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[音質靠 LDAC 提升巨大？超詳細解析 Anker Soundcore Liberty 3 Pro 降噪真無線藍牙耳機 | 對比 Sony WF-1000XM4]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/bxxiiN7zMz4" frameborder="0" allowfullscreen=""></iframe>Soundcore 終於推出旗艦 Liberty 3 Pro<br>不但加入 HearID ANC 降噪功能<br>新的 ACAA 2.0 同軸圈鐵與 LDAC 藍牙編碼<br>更讓聲音大幅提升<br>到底提升多少？好到什麼等級？<br>讓耳機公道伯告訴你<br><br>0:00 前言<br>0:53 外觀<br>1:39 配戴感<br>2:23 APP<br>2:35 降噪與環境音<br>3:32 ACAA 2.0<br>4:21 LDAC<br>5:12 音質<br>6:16 通話<br>6:25 結論<br><br>Soundcore Liberty 3 Pro：https://pse.is/3nl2lt<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#高音質]]></description>
+            <pubDate>Wed, 27 Oct 2021 02:53:37 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=bxxiiN7zMz4</guid>
+            <link>https://www.youtube.com/watch?v=bxxiiN7zMz4</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最在乎你健康的耳機？Amazfit PowerBuds Pro 降噪真無線藍牙耳機 | 心律監測、保護聽力、保護頸椎]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/3GFl0iXAmao" frameborder="0" allowfullscreen=""></iframe>華米 PowerBuds Pro 既是降噪耳機<br>也是運動心跳監測耳機<br>能保護你身體健康的還不只如此<br>內建頸椎姿勢提醒、智慧音量保護<br>你大概找不到<br>這麼照顧你的耳機了<br><br>0:00 前言<br>0:50 外觀<br>1:19 配戴感<br>1:39 健康功能<br>3:20 降噪與環境音<br>3:41 音質<br>4:08 通話<br>4:19 結論<br><br>PowerBuds Pro：https://lihi1.com/wkzgt<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#聆聽跳動聲]]></description>
+            <pubDate>Mon, 25 Oct 2021 08:33:36 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=3GFl0iXAmao</guid>
+            <link>https://www.youtube.com/watch?v=3GFl0iXAmao</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sony 有史以來最佛心的真無線？Sony WF-C500 真無線藍牙耳機 | 對比 WF-1000XM4]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/DNypd0vLXgo" frameborder="0" allowfullscreen=""></iframe>SONY 竟然推出 3000 元有找的平價款<br>時尚小巧的機身<br>像極了 WF-1000XM4<br>不但支援 360 Reality Audio 環繞音效<br>與 DSEE 數位音質還原技術<br>更有繽紛的馬卡龍色<br>太佛了吧？<br>究竟它繼承了降噪豆四代的哪些特色<br>為何跟 Xperia 1 iii、Xperia 5 iii 特別搭<br>索粉們不能錯過<br><br>0:00 前言<br>0:36 外觀<br>1:21 配戴感<br>1:33 360 音效<br>2:36 音質<br>3:30 通話<br>3:41 結論<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#日系高顏質]]></description>
+            <pubDate>Fri, 22 Oct 2021 07:12:18 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=DNypd0vLXgo</guid>
+            <link>https://www.youtube.com/watch?v=DNypd0vLXgo</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Apple AirPods 3 發表會懶人包，蘋果砍掉一個重要功能卻沒說？原因你看完就懂]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/VnAK4VrAtaA" frameborder="0" allowfullscreen=""></iframe>蘋果發表會公佈 AirPods 第三代<br>造型有點融合 AirPods Pro<br>但維持半入耳式設計<br>並加入空間音訊跟自適應等化<br>其實<br>Apple 悄悄取消一項跟聲音有關的功能<br>究竟背後有什麼真相？<br><br>0:00 前言<br>0:39 原先的設計<br>1:13 設計難點<br>2:19 可能的解決方案<br>3:24 太難了<br>4:01 結論<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#無損音質繼續等]]></description>
+            <pubDate>Tue, 19 Oct 2021 02:21:24 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=VnAK4VrAtaA</guid>
+            <link>https://www.youtube.com/watch?v=VnAK4VrAtaA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sennheiser GSP 600 轉生變成這款式？EPOS H6PRO 旗艦電競耳機]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/5vpe0NGvhIg" frameborder="0" allowfullscreen=""></iframe>丹麥 EPOS 延續過去 Sennheiser Communications 的聲學技術<br>推出全新旗艦 H6 Pro<br>比 GSP 601、602 更輕、更好戴<br>除了有可拆卸的磁吸麥克風<br>更擁有封閉式、開放式兩種款式可選<br>滿足頂尖玩家對遊戲音效的追求<br><br>0:00 前言<br>1:25 外觀<br>3:13 功能<br>3:50 音質<br>4:32 通話<br>4:41 結論<br><br>H6PRO：https://pse.is/3pc5x4<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#德的意志]]></description>
+            <pubDate>Tue, 12 Oct 2021 07:34:47 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=5vpe0NGvhIg</guid>
+            <link>https://www.youtube.com/watch?v=5vpe0NGvhIg</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[小米最能打的兩款耳機？Redmi Buds 3 / Buds 3 Pro (AirDots 3 Pro) 降噪真無線藍牙耳機]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/R0TCfbeERzM" frameborder="0" allowfullscreen=""></iframe>紅米 Redmi Buds 3 半入耳式+高通 QCC3040<br>只賣 900 元<br>Redmi Buds 3 Pro (Redmi AirDots 3 Pro) 有 AI 降噪<br>也只賣 1600 元<br>又是小米手機、小米平板 5 專武<br>對其他廠商太無情了<br><br>0:00 前言<br>0:25 Redmi Buds 3<br>2:32 Redmi Buds 3 Pro<br>4:42 通話<br>4:50 通話<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#高 CP 值]]></description>
+            <pubDate>Fri, 08 Oct 2021 07:59:55 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=R0TCfbeERzM</guid>
+            <link>https://www.youtube.com/watch?v=R0TCfbeERzM</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[「次元切割」 #shorts]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/TXnLoolF2mM" frameborder="0" allowfullscreen=""></iframe>下午三、四點心血來潮錄了這段<br>晚上突然就派上用場了<br>你也可以叫它<br>無情切割<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#炎上 #龍龍 #我記錯了]]></description>
+            <pubDate>Thu, 07 Oct 2021 15:44:04 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=TXnLoolF2mM</guid>
+            <link>https://www.youtube.com/watch?v=TXnLoolF2mM</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[7 單體客製化耳機有比較厲害？Vision Ears VE7 監聽耳機 | 對比 VE8]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/9tofXMkMLSw" frameborder="0" allowfullscreen=""></iframe>德國 VE 新推出的高階款<br>主打中性的聲音表現<br>滿足專業人士對音樂細節的要求<br>究竟 VE7 的私膜好聽嗎<br>搭 Erua Audio Miro 升級線的感覺如何<br>發燒友不要錯過！<br><br>0:00 前言<br>0:31 客製化的興起<br>1:32 如何取耳膜<br>2:37 開箱與外觀<br>3:43 音質<br>5:16 結論<br><br>MY IEM 訂製 VE7：https://sho.pe/3q5pgt<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#CIEM]]></description>
+            <pubDate>Mon, 04 Oct 2021 04:24:38 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=9tofXMkMLSw</guid>
+            <link>https://www.youtube.com/watch?v=9tofXMkMLSw</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[如何幫 iPhone 13 挑選真無線藍牙耳機？AirPods 3 外有哪些選擇？AAC 又是什麼？]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/SneHp6v79xY" frameborder="0" allowfullscreen=""></iframe>聽說 Apple iPhone 13 Pro 的藍牙延遲比 Android 低<br>音質又比較好？<br>蘋果推廣的 AAC 藍牙編碼是什麼？<br>除了 AirPods Pro 外<br>果粉還有哪些好選擇？<br>讓耳機公道伯一次告訴你<br><br>0:00 前言<br>0:50 AAC<br>1:30 三大迷思<br>2:36 三款耳機推薦<br>4:48 結論<br><br>鐵三角 ATH-SQ1TW：https://youtu.be/CcSwWyfprkE<br>Anker Soundcore Life P3：https://youtu.be/wsOLDB4WZKA<br>Xround Aero：https://youtu.be/jpM15atI3K4<br>Nuarl N6 mini2：https://youtu.be/dTkg-qpshK0<br>Nothing ear (1)：https://youtu.be/t7kIim10SdI<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#天峰藍]]></description>
+            <pubDate>Fri, 01 Oct 2021 08:40:22 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=SneHp6v79xY</guid>
+            <link>https://www.youtube.com/watch?v=SneHp6v79xY</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Google Pixel 6 專武？3000 元最高音質小耳機？Google Pixel Buds A-Series / Nuarl N6 mini2 SE 真無線藍牙耳機]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/dTkg-qpshK0" frameborder="0" allowfullscreen=""></iframe>這裡有兩款獨特的真無線耳機<br>一個是谷歌親兒子 Pixel Buds 2 的平價款<br>你只要用嘴巴召喚 Google 助理<br>就可以幫你做大小事<br>一個是 N6 mini 升級款<br>除了音質很難有對手<br>還有升級過的環境音跟遊戲模式<br>它們都很奇異~<br><br>0:00 前言<br>0:33 Pixel Buds A<br>3:32 N6 mini2<br>6:13 通話<br>6:23 結論<br><br>N6 mini2 SE：https://pse.is/3pnbe6<br>(專屬折扣碼：FIVE10OFF)<br>Pixel Buds A-Series：https://pse.is/3pzupq<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#谷歌大法好]]></description>
+            <pubDate>Mon, 27 Sep 2021 09:18:58 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=dTkg-qpshK0</guid>
+            <link>https://www.youtube.com/watch?v=dTkg-qpshK0</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[2000 元有找的時尚輕薄款！Elephant's Gears Easy Buds 真無線藍牙耳機 | 半入耳式設計、遊戲模式]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/gmFDmfB5lnU" frameborder="0" allowfullscreen=""></iframe>如果你喜歡有質感的耳機<br>鋁合金充電盒的 EASY BUDS<br>又輕又時尚<br>Apple Airpods 般的配戴感毫無負擔<br>兩張小朋友有找<br>各位都會水水帥帥會很喜歡<br><br>0:00 前言<br>0:28 外觀<br>1:23 配戴感<br>1:45 遊戲模式<br>2:28 音質<br>3:17 通話<br>3:28 結論<br><br>Easy Bud：https://pse.is/3q2vdb<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#薄的好]]></description>
+            <pubDate>Fri, 24 Sep 2021 01:37:33 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=gmFDmfB5lnU</guid>
+            <link>https://www.youtube.com/watch?v=gmFDmfB5lnU</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[女毒？動漫歌曲專武？IKKO Gems OH1S 入耳式耳機 | 對比 OH10]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/m2Ajlzu_1OY" frameborder="0" allowfullscreen=""></iframe>連包裝盒都有耳機孃的 OH1S<br>採用圈鐵混合的單體設計<br>繼承旗艦 OH7 的動圈技術與 OH10 的樓氏動鐵<br>聽 ACG 就靠它了<br><br>0:00 前言<br>1:06 外觀<br>2:06 設計<br>3:04 音質<br>4:08 結論<br><br>OH1S：https://sho.pe/3q7lw4<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#好油喔 peko]]></description>
+            <pubDate>Fri, 17 Sep 2021 01:59:33 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=m2Ajlzu_1OY</guid>
+            <link>https://www.youtube.com/watch?v=m2Ajlzu_1OY</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[十秒看完 iPhone 13 發表會懶人包，這改變讓全宇宙都驚呆了！ #shorts]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/UnOltFWAtKQ" frameborder="0" allowfullscreen=""></iframe>果粉們看完<br>還需要選購建議嗎？<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#詳細整理]]></description>
+            <pubDate>Wed, 15 Sep 2021 01:32:09 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=UnOltFWAtKQ</guid>
+            <link>https://www.youtube.com/watch?v=UnOltFWAtKQ</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[超平價真無線藍牙耳機推薦！500 元到 2500 元包辦運動與降噪 MPOW MDots / M13 / X3 ANC / M7 ANC]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/rmXqisWFa9I" frameborder="0" allowfullscreen=""></iframe>說到超平價的真無線耳機<br>大家可能會想到小米、QCY、realme<br>但 MPOW 應該比較少聽說吧？<br>究竟有沒有高 CP 值<br>我們幫小資族一次試四款<br><br>0:00 前言<br>0:33 MDots<br>2:03 M13<br>2:51 X3 ANC<br>4:04 M7 ANC<br>5:26 通話<br>5:42 結論<br><br>MDots：https://pse.is/3nmel5<br>M13：https://pse.is/3keyzj<br>X3 ANC：https://pse.is/3n5dug<br>M7 ANC：https://pse.is/3p3kar<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#辛酸畫面流出]]></description>
+            <pubDate>Mon, 13 Sep 2021 09:03:18 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=rmXqisWFa9I</guid>
+            <link>https://www.youtube.com/watch?v=rmXqisWFa9I</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[臺灣正式上市！Nothing ear (1) 降噪真無線藍牙耳機]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/t7kIim10SdI" frameborder="0" allowfullscreen=""></iframe>Nothing 是 OnePlus 共同創辦人的新創品牌<br>旗下首款 NOTHING Ear 1 品<br>造型彷彿是透明版的 AirPods Pro<br>同樣有 ANC 主動式降噪、通透模式<br>找來瑞典 Teenage Engineering 調音<br>99 美金的價格更造成國外瘋搶<br>讓 Apple Event 可能發表的 Airpods3 瑟瑟發抖<br><br>0:00 前言<br>0:21 外觀<br>0:57 規格與品牌<br>1:48 配戴感<br>2:16 主動式降噪與環境音<br>3:33 音質<br>4:20 通話<br>4:33 結論<br>5:32 福利<br><br>---<br><br>感謝朋友的原味耳機<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#臺灣首發]]></description>
+            <pubDate>Mon, 13 Sep 2021 02:36:22 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=t7kIim10SdI</guid>
+            <link>https://www.youtube.com/watch?v=t7kIim10SdI</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[挑戰旗艦單動圈王者？FAudio Dark Sky 新世代旗艦級動圈耳機 | 雙層振膜]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/NHp-YUVSExU" frameborder="0" allowfullscreen=""></iframe>對比上一代神圈 Major<br>Dark Sky 使用全新的 10.2mm 雙層振膜動圈單體<br>不只中高頻有進步<br>整體質素與聽感更達到新的巔峰<br><br>0:00 前言<br>0:20 品牌故事<br>1:17 外觀<br>2:23 音質<br>4:48 結論<br><br>Dark Sky：<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#Sky 葛格]]></description>
+            <pubDate>Tue, 07 Sep 2021 05:55:15 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=NHp-YUVSExU</guid>
+            <link>https://www.youtube.com/watch?v=NHp-YUVSExU</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[全球首款 Xbox 認證的電競螢幕 (55 吋 4K 144Hz HDR)，下面還有 Bowers & Wilkins Soundbar！Philips 559M1RYV]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/m2xsV1UaRN0" frameborder="0" allowfullscreen=""></iframe>這是一臺飛利浦的大尺吋 4K HDR 顯示器<br>超越了 55 吋電視<br>與微軟 Xbox 團隊為遊戲主機合作打造<br>有 VESA 認證的 DisplayHDR 1000、Ambiglow 流光溢彩技術點亮視覺體驗<br>再搭配喇叭專家 B&amp;W 的音效技術<br>讓家機/PC 玩家沉浸在 HDMI 2.1 的最佳遊戲體驗<br><br>0:00 前言<br>0:41 簡介<br>1:18 設計<br>2:27 功能<br>3:41 B&amp;W Soundbar<br>5:04 結論<br><br>Philips 559M1RYV：https://pse.is/3nl9h7<br><br>---<br><br>小茉 FB：https://pse.is/3nkfgr<br>IG：https://pse.is/3jensy<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#線上資訊展]]></description>
+            <pubDate>Tue, 31 Aug 2021 08:33:15 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=m2xsV1UaRN0</guid>
+            <link>https://www.youtube.com/watch?v=m2xsV1UaRN0</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Cleer Ally Plus 2 降噪真無線藍牙耳機 | 高通旗艦 QCC5141 比 QCC3040 強在哪？]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/2OljtSluRQk" frameborder="0" allowfullscreen=""></iframe>精品耳機品牌 Cleer 推出的 Ally+ II<br>有著時尚的透明充電盒<br>內在也十分強悍<br>帶大家瞭解採用高通旗艦晶片的它<br>與其他平價耳機相比<br>究竟厲害在哪<br><br>0:00 前言<br>0:26 外觀<br>1:46 QCC5141 優勢<br>2:57 自適應降噪與環境音<br>3:21 音質<br>4:02 通話<br>4:13 結論<br><br>Cleer Ally Plus 2：https://pse.is/3m4c9l<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#高通大法好]]></description>
+            <pubDate>Tue, 31 Aug 2021 03:04:06 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=2OljtSluRQk</guid>
+            <link>https://www.youtube.com/watch?v=2OljtSluRQk</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[挑戰 Anker 最高 CP 值？Anker Soundcore Life P3 降噪真無線藍牙耳機 | 對比 Liberty Air 2 Pro、Life Dot 2 NC]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/wsOLDB4WZKA" frameborder="0" allowfullscreen=""></iframe>Soundcore Life P3 除了 ANC 主動式降噪外<br>首度加入低延遲遊戲模式<br>APP 內建白噪音與 BassUp 重低音強化<br>還有雙耳六麥克風的 AI 通話降噪<br>等於 3000 元內<br>把功能給塞爆了<br><br>0:00 前言<br>0:32 外觀<br>1:08 配戴感<br>1:37 降噪與環境音<br>2:28 遊戲模式<br>3:10 助眠白噪音與尋找耳機<br>3:43 音質<br>4:28 通話<br>4:43 結論<br><br>Life P3：https://pse.is/3kmggv<br><br>---<br><br>訂閱 YouTube 頻道👉 https://pse.is/du616<br>按讚 Facebook 粉專👉 https://du616.pse.is/SBZXC<br>加入 LINE 群👉 https://du616.pse.is/TPYS2<br>聯絡我們👉 digitaluniverse616@gmail.com<br><br>#年輕人不講武德]]></description>
+            <pubDate>Mon, 30 Aug 2021 08:36:25 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=wsOLDB4WZKA</guid>
+            <link>https://www.youtube.com/watch?v=wsOLDB4WZKA</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
