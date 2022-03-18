@@ -1,6 +1,232 @@
-﻿<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /user/video/12434430</pre><pre class="message">Error message: Response code 412 (Precondition Failed): target website might be blocking our access, you can <a href="https://docs.rsshub.app/install/">host your own RSSHub instance</a> for a better usability.</pre><pre class="message">Helpful Information to provide when opening issue:
-Path: /user/video/12434430
-Node version: v16.3.0
-        </pre><pre class="message">如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Linus Tech Tips]]></title>
+        <link>https://space.bilibili.com/12434430</link>
+        <atom:link href="http://rsshub.app/bilibili/user/video/12434430" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Linus Tech Tips - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Fri, 18 Mar 2022 03:40:57 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[英偉達拒絕給我們玩的顯卡 - 英偉達 A100 PCIe 數據中心計算卡]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=467342324&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/52b72a613e08f98f0f87df56d05af0dcea941fbf.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 16 Mar 2022 16:02:33 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1yL411P7n3</guid>
+            <link>https://www.bilibili.com/video/BV1yL411P7n3</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[比強更強之 Ul 了個 tra？看看這一次蘋果的操作怎麼樣 ]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=724832115&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/eef7167fce52589b211f5824de7d8b6a37e374dc.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 15 Mar 2022 14:45:39 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1fS4y1m7fC</guid>
+            <link>https://www.bilibili.com/video/BV1fS4y1m7fC</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[彷彿是一個令人後悔的餿主意 - 英特爾科技大升級之 Colin]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=382298429&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/187be6b53eecb3fee8b4d226a4155d2a35f30a0a.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 14 Mar 2022 12:49:08 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV11Z4y1z7Gm</guid>
+            <link>https://www.bilibili.com/video/BV11Z4y1z7Gm</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[膽小誤點！加拿大一男子為尋 PSB 鎖廠商真相，竟殘忍殺害 CPU]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=594708795&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/7a466a1a289e9f5bf3ea7f98fe77c8f1a7c2f405.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 11 Mar 2022 23:25:28 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV12q4y1i7kC</guid>
+            <link>https://www.bilibili.com/video/BV12q4y1i7kC</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Steam Deck 是個不完全體 - Steam Deck 軟件評測]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=979662261&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/570ef1bee66f9ad1b2550665e6da556bb2e319eb.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 10 Mar 2022 05:31:04 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1744y1K74d</guid>
+            <link>https://www.bilibili.com/video/BV1744y1K74d</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[英特爾，我不懂… - 12 代原裝散熱器]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=809572780&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/798dd933079f2ce38d3b76717257e67873695b82.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 07 Mar 2022 23:15:59 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1X34y1b7v6</guid>
+            <link>https://www.bilibili.com/video/BV1X34y1b7v6</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[跑著 Linux 的 PS4 - PS4 破解一遊]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=382027462&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/0e5b7dc75700a01299d7e83ee47f5b18629d1eea.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 05 Mar 2022 18:08:44 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1PZ4y1r7cX</guid>
+            <link>https://www.bilibili.com/video/BV1PZ4y1r7cX</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Windows 11 可以直接跑安卓 APP 了？]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=679404422&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/19912625b0c7aa657a63414189102e55231dc4c8.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 04 Mar 2022 14:29:30 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Bm4y1R73i</guid>
+            <link>https://www.bilibili.com/video/BV1Bm4y1R73i</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ 加拿大老哥自修電池教程 - 電池廠商阻礙維修不違法？]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=766972527&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/b63a49d13bab9626b5d7de26024ab8e67aa49eab.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 03 Mar 2022 17:45:05 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Kr4y1674F</guid>
+            <link>https://www.bilibili.com/video/BV1Kr4y1674F</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[吔屎吧，Edge —— 說說微軟的壟斷手法]]></title>
+            <description><![CDATA[長期招募有償翻譯：nixiesubs.com/html/2015/recruit.html
+
+
+
+
+<iframe src="https://player.bilibili.com/player.html?aid=766947772&amp;high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/4f91917838dbb6a0b44cb3e5f8978b838dba906e.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 03 Mar 2022 07:59:26 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1fr4y1z7wa</guid>
+            <link>https://www.bilibili.com/video/BV1fr4y1z7wa</link>
+            
+            
+            
+            <author><![CDATA[LinusTechTips]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
