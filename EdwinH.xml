@@ -1,28 +1,4 @@
-﻿<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /youtube/channel/UCZGVB6g74LXWtkR3fX50ykg</pre><pre class="message">Error message: This path is currently fetching, please come back later!</pre><pre class="message">
-Helpful Information to provide when opening issue:
-Path: /youtube/channel/UCZGVB6g74LXWtkR3fX50ykg
-Node version: v16.15.0
-Git Hash: dcc3c80
-        </pre><pre class="message">
-如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html><!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /youtube/channel/UCZGVB6g74LXWtkR3fX50ykg</pre><pre class="message">Error message: This path is currently fetching, please come back later!</pre><pre class="message">
-Helpful Information to provide when opening issue:
-Path: /youtube/channel/UCZGVB6g74LXWtkR3fX50ykg
-Node version: v16.15.0
-Git Hash: dcc3c80
-        </pre><pre class="message">
-如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html><!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}</style></head><body><div class="content"><p><img src="https://i.loli.net/2019/09/04/lmBbNQoLzrKGgiM.jpg" alt="RSSHub" width="120"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /youtube/channel/UCZGVB6g74LXWtkR3fX50ykg</pre><pre class="message">Error message: This path is currently fetching, please come back later!</pre><pre class="message">
-Helpful Information to provide when opening issue:
-Path: /youtube/channel/UCZGVB6g74LXWtkR3fX50ykg
-Node version: v16.15.0
-Git Hash: dcc3c80
-        </pre><pre class="message">
-如果您認為 RSSHub 導致了該錯誤，請在 Github 按照模版，複製本頁面信息進行<a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">彙報</a>
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-        </pre><div style="margin:50px 0"><p>在線文檔與支持，請訪問<a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p></div></div></body></html><?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 
@@ -39,8 +15,24 @@ If you believe this is an error caused by RSSHub, please <a href="https://github
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 12 May 2022 00:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 01:00:16 GMT</lastBuildDate>
         <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[6 分鐘精華 Google I/O 發佈會  📱懶人包 Pixel 6A  📳Pixel 7 ⌚ Android 13 Pixel Watch 中文]]></title>
+            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/OTVdEhM1Wl8" frameborder="0" allowfullscreen=""></iframe>我想要行貨 😳 <br><br>發佈會全片 ▶️ https://www.youtube.com/watch?v=nP-nMZpLM1A<br><br>全發佈會系列 ▶️ https://www.youtube.com/playlist?list=PLGoDeeYZOtSdZblK7SR_MD-wlvenM3X4l<br><br><br><br>Instagram ▶️  https://www.instagram.com/edwinghui/<br>Facebook ▶️  https://www.facebook.com/edwinghui/<br>Twitter ▶️  https://twitter.com/edwinghui/<br><br>請支持廣東話獨立製作幫助 Edwin▶️ ▶️ ▶️ <br><br>Patreon(強烈建議年費九折) 課金  ▶️  https://www.patreon.com/edwinh/<br><br>PayMe QRCode ▶️  https://i.imgur.com/s1qJYyF.jpg<br><br>PayMe 課金 ► https://payme.hsbc/edwinh<br><br>轉數快 FPS QR Code ► https://i.imgur.com/BwnWyIO.jpg<br><br>轉數快 FPS ID ► 2604585<br><br>Paypal 課金 ► http://paypal.me/edwinghui<br><br>買 Surfshark(傭) ► http://bit.ly/SurfsharkEd<br><br>買 NordVPN(傭) ► https://bit.ly/NordVPNed<br><br>Subscribe! ► https://www.youtube.com/edwinh?sub_confirmation=1]]></description>
+            <pubDate>Thu, 12 May 2022 00:43:57 GMT</pubDate>
+            <guid isPermaLink="false">https://www.youtube.com/watch?v=OTVdEhM1Wl8</guid>
+            <link>https://www.youtube.com/watch?v=OTVdEhM1Wl8</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[28 件必睇科技新品 🥢 🚪 💻 💾 | 4 月 5 月]]></title>
@@ -816,22 +808,6 @@ If you believe this is an error caused by RSSHub, please <a href="https://github
             <pubDate>Sat, 31 Jul 2021 12:30:20 GMT</pubDate>
             <guid isPermaLink="false">https://www.youtube.com/watch?v=hZNYP9vJggw</guid>
             <link>https://www.youtube.com/watch?v=hZNYP9vJggw</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[消費券買 iPad？ iPad Pro M1 終極評測 iPadOS 15]]></title>
-            <description><![CDATA[<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/iCdRitLx19k" frameborder="0" allowfullscreen=""></iframe>我地黎深度講下呢部裝左 iPadOS 15 嘅 iPad Pro 2021<br>訂 Surfshark VPN：https://surfshark.deals/edwinh​<br>優惠碼：EdwinH<br>享 83% Off 再送 3 個月免費<br><br>#消費券 #iPadPro ipad pro logitech combo touch<br><br>00:00 Intro<br>01:19 Hardware<br>04:52 取代手提電腦？iPadOS 15<br>07:40 配件 Accessories <br>10:35 電池<br>10:55 用$5000 投資落去？<br>11:30 Replace Laptop?<br>13:07 Q&amp;A<br><br>無傭 Link<br>iPad Pro 殼 ▶️ https://bit.ly/ipadCaseEd<br>Logitech Combo Touch ▶️ https://bit.ly/logiComboTouchEd<br><br><br>Instagram ▶️  https://www.instagram.com/edwinghui/<br>Facebook ▶️  https://www.facebook.com/edwinghui/<br>Twitter ▶️  https://twitter.com/edwinghui/<br><br>請支持廣東話獨立製作幫助 Edwin▶️ ▶️ ▶️ <br><br>Patreon(強烈建議年費九折) 課金  ▶️  https://www.patreon.com/edwinh/<br><br>PayMe QRCode ▶️  https://i.imgur.com/s1qJYyF.jpg<br><br>PayMe 課金 ► https://payme.hsbc/edwinh<br><br>轉數快 FPS QR Code ► https://i.imgur.com/BwnWyIO.jpg<br><br>轉數快 FPS ID ► 2604585<br><br>Paypal 課金 ► http://paypal.me/edwinghui<br><br>買 Surfshark(傭) ► http://bit.ly/SurfsharkEd<br><br>買 NordVPN(傭) ► https://bit.ly/NordVPNed<br><br>食 Uber Eats 入 code ► eats-edwinh3264u<br><br>Subscribe! ► https://www.youtube.com/edwinh?sub_confirmation=1 #終極評測]]></description>
-            <pubDate>Thu, 15 Jul 2021 12:30:08 GMT</pubDate>
-            <guid isPermaLink="false">https://www.youtube.com/watch?v=iCdRitLx19k</guid>
-            <link>https://www.youtube.com/watch?v=iCdRitLx19k</link>
             
             
             
