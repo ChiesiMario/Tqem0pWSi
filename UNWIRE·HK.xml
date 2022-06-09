@@ -1,13 +1,4 @@
-﻿<HTML>
-<HEAD>
-<TITLE>Service Unavailable</TITLE>
-</HEAD>
-<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
-<H1>Service Unavailable</H1>
-<H2>Error 503</H2>
-</BODY>
-</HTML>
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 xmlns:content="http://purl.org/rss/1.0/modules/content/"
 xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
